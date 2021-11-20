@@ -619,8 +619,10 @@ footer > .last u a {
     padding: 3rem 5%;
   }
   footer > .content {
-    width: 100vw;
-    margin: 0 auto;
+    overflow: hidden;
+  }
+  footer > .content a {
+    padding: 6px;
   }
   footer p {
     width: 88%;
