@@ -729,6 +729,12 @@ footer > .last u a {
   .sign-up p {
     font-size: 0.6rem;
   }
+  .cards {
+    flex-direction: column;
+  }
+  .card {
+    width: 100%;
+  }
 }
 
 @media only screen and (device-width: 768px) {
