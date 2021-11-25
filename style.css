@@ -128,7 +128,6 @@ h6 {
     rgba(33, 210, 254, 1) 0%,
     rgba(163, 52, 255, 1) 100%
   );
-  background-color: rgba(33, 210, 254, 1);
   color: #fff;
   transition: 0.3s;
 }
@@ -379,7 +378,6 @@ a {
     rgba(163, 52, 255, 1) 100%
   );
   border-image-slice: 1;
-  border-radius: 0 5px 5px 0;
   padding: 4%;
 }
 
@@ -603,11 +601,9 @@ footer > .last u a {
   }
   .contact-info {
     width: 95%;
-    border-radius: 5px 5px 0 0;
   }
   .contact-form {
     width: 95%;
-    border-radius: 0 0 5px 5px;
   }
   .contact-form form input,
   textarea {
